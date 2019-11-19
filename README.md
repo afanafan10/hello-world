@@ -1,6 +1,9 @@
 # hello-world
 Repository to say hello to the world.
 
+## (edit 19/11/2019)
+mencoba git kembali.
+
 # save cats!
 Trying some changes, i hope it's good enough.
 
